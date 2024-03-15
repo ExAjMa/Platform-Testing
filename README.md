@@ -1,7 +1,7 @@
 # Platform-Testing
 Insights about the less explored ground.
 
-Platform Testing - Have heard this before with terminologies exactly switched over. Interestingly I encountered the term in it's actual sense while exploring something else and thought of putting it forward.
+Platform Testing - Most of us have heard this before with the words exactly switched over. Interestingly, I encountered the term in it's actual sense while exploring something else and thought of putting it forward.
 Most of us have heard of various terminologies combined with testing and have known them in theory and practice.
 But 'Platform Testing' is that less known ground which is the foundation of the outer building, that most of us have visited so far.
 We know about UI testing, API testing, browser Testing, and so on... but have we ever explored how the technical teams instate the platform to be used for achieving the purpose?
